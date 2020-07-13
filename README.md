@@ -10,7 +10,6 @@ I'm a Computer Science student and an Aspiring polyglot, want to help create ope
 
 ## ***Social media***
 
-![youtube](https://user-images.githubusercontent.com/65048014/87262071-30b03880-c47e-11ea-808d-986098e89a98.png)  [Youtube](https://www.youtube.com/channel/UCNmMexrPGuqnR-_L9wV8K1w?view_as=subscriber)
- ![twitter](https://user-images.githubusercontent.com/65048014/87262075-33ab2900-c47e-11ea-9e22-0bc9182f86bb.png)  [Twitter](https://twitter.com/GarretTomlin)
- ![instagram](https://user-images.githubusercontent.com/65048014/87262082-360d8300-c47e-11ea-8fb1-3c17daccc66a.png)
-   [Instagram](https://www.instagram.com/gtcoder8/)
+- [Youtube](https://www.youtube.com/channel/UCNmMexrPGuqnR-_L9wV8K1w?view_as=subscriber)
+- [Twitter](https://twitter.com/GarretTomlin)
+- [Instagram](https://www.instagram.com/gtcoder8/)
