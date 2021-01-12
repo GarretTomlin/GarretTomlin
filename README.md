@@ -11,5 +11,5 @@ I'm a Computer Science student and an Aspiring polyglot, want to help create ope
 ## ***Social media***
 
 - [Youtube](https://www.youtube.com/channel/UCNmMexrPGuqnR-_L9wV8K1w?view_as=subscriber)
-- [Twitter](https://twitter.com/GarExtodan)
+- [Twitter](https://twitter.com/GarretTomlin)
 - [Instagram](https://www.instagram.com/gtcoder8/)
