@@ -8,6 +8,8 @@ I'm a Computer Science student and an Aspiring polyglot, want to help create ope
 
 自分の考えを分析するために、他人が自分の考えを持っていこうとする気持ちはありません。私には何の考えもありません。私は一度も、一度も、教義や哲学に基づいて行動したことはありません。私は世界を信用していません。- 太宰治
 
+ ##
+ 
  ## Thanks for reading
  
 
