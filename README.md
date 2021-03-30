@@ -1,8 +1,19 @@
 ## HEY 👋🏾,I'm Garret
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garrettomlin&label=Profile%20views&color=0e75b6&style=flat" alt="garrettomlin" /> </p>
-<p align="left"> <a href="https://twitter.com/garrettomlin" target="blank"><img src="https://img.shields.io/twitter/follow/garrettomlin?logo=twitter&style=for-the-badge" alt="garrettomlin" /></a> </p>
+ </p> <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
+<p align="center">
+  <a href="https://github.com/garrettomlin?tab=followers">
+    <img src="https://img.shields.io/github/followers/garrettomlin?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/garrettomlin">
+    <img src="https://img.shields.io/twitter/follow/garrettomlin?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+
+</p>
+
+<p align="center">
 
   ![弱肉強食](https://user-images.githubusercontent.com/65048014/87257257-43ffdb80-c45f-11ea-9f90-ef56d0b04907.png)
   
@@ -24,10 +35,3 @@ I'm a Computer Science student and an Aspiring polyglot, want to help create ope
  
 
 
-## ***Social media***
-
-
-
-- [Youtube](https://www.youtube.com/channel/UCNmMexrPGuqnR-_L9wV8K1w?view_as=subscriber)
-- [Twitter](https://twitter.com/GarretTomlin)
-- [Instagram](https://www.instagram.com/gar_wrld/)
