@@ -31,7 +31,7 @@ I'm a Computer Science student and an Aspiring polyglot, want to help create ope
  
 <p float="center">
 <img  src="https://media1.tenor.com/images/ac06e3160e95dba1d7bdb6a08cb5e68c/tenor.gif?itemid=20174573" width="400" height="300" />
- <img src="https://www.nihongomaster.com/blog/wp-content/uploads/2016/05/study-too-hard.gif"  width="500" height="300" />
+ <img src="https://www.nihongomaster.com/blog/wp-content/uploads/2016/05/study-too-hard.gif"  width="400" height="300" />
  </p>
 </p>
  
