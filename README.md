@@ -46,7 +46,11 @@ I'm a Computer Science student and an Aspiring polyglot, want to help create ope
   <a href="https://twitter.com/garrettomlin"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/garret-tomlin-464775218"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://stackoverflow.com/users/11379665/garreta"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
-<p>
+  <a href="mailto:garrettom.code@gmail.com?subject=subject&cc=cc@example.com"><img src="https://img.icons8.com/external-justicon-flat-justicon/40/000000/external-gmail-social-media-justicon-flat-justicon.png" alt="gmail"/></a>
+
+  
+  
+</p>
  
 
 
