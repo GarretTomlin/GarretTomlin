@@ -41,7 +41,12 @@ I'm a Computer Science student and an Aspiring polyglot, want to help create ope
  
 
  
- ## Thanks for reading
+ ### Get in touch
+<p>
+  <a href="https://twitter.com/garrettomlin"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/garret-tomlin-464775218"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://stackoverflow.com/users/11379665/garreta"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
+<p>
  
 
 
