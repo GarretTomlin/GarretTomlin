@@ -1,7 +1,6 @@
 ## HEY 👋🏾,I'm Garret
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=garrettomlin&label=Profile%20views&color=0e75b6&style=flat" alt="garrettomlin" /> </p>
- </p> <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
 
 <p align="center">
   <a href="https://github.com/garrettomlin?tab=followers">
@@ -30,8 +29,8 @@ I'm a Computer Science student and an Aspiring polyglot, want to help create ope
  
  
 <p float="center">
-<img  src="https://media1.tenor.com/images/ac06e3160e95dba1d7bdb6a08cb5e68c/tenor.gif?itemid=20174573" width="400" height="300" />
- <img src="https://www.nihongomaster.com/blog/wp-content/uploads/2016/05/study-too-hard.gif"  width="400" height="300" />
+<img  src="https://media1.tenor.com/images/ac06e3160e95dba1d7bdb6a08cb5e68c/tenor.gif?itemid=20174573" width="1000" height="300" />
+
  </p>
 </p>
  
