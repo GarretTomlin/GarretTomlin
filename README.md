@@ -3,18 +3,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/garrettomlin?tab=followers">
-    <img src="https://img.shields.io/github/followers/garrettomlin?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/garrettomlin">
-    <img src="https://img.shields.io/twitter/follow/garrettomlin?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-
-</p>
-
-
-
-<p align="center">
 
   ![弱肉強食](https://user-images.githubusercontent.com/65048014/87257257-43ffdb80-c45f-11ea-9f90-ef56d0b04907.png)
   
