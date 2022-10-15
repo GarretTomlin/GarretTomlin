@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://github.com/GarretTomlin/GarretTomlin/blob/master/icons%20with%20padding/helloworld.png" alt="Hello world">
+<img src="https://github.com/GarretTomlin/GarretTomlin/blob/master/icons%20with%20padding/tsc%20helloworld.ts%20(4).png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
