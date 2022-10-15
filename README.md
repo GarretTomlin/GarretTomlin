@@ -23,6 +23,8 @@ I'm Garret Tomlin. A Software Engineer. An Android Engineer at [DeliveryHero](ht
 <p>
   <a href="https://twitter.com/"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/garrettomlin"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
+    <a href="https://www.linkedin.com/in/garrettomlin"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="linkedin"/></a>
+
 <p>
 
 
