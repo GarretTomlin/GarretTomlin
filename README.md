@@ -22,9 +22,9 @@ I'm Garret Tomlin. A software engineer with a passion for developing innovative 
 ## Get in touch :coffee:
 
 <p>
-  <a href="https://twitter.com/"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://twitter.com/garret_tomlin/"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/garrettomlin"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
-    <a href="https://www.linkedin.com/in/garrettomlin"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="linkedin"/></a>
+    <a href="mailto:garrettomlin.code"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="linkedin"/></a>
 
 <p>
 
