@@ -27,6 +27,6 @@ I'm Garret Tomlin. A software engineer with a passion for developing innovative 
     <a href="mailto:garrettomlin.code"><img src="https://img.icons8.com/color/50/000000/gmail.png" alt="linkedin"/></a>
 
 <p>
-
+<p>
 
 
