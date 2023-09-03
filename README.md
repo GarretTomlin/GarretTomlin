@@ -9,14 +9,14 @@
 
 ## About me
 
-I'm Garret Tomlin. A software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in enterprize technologies and writing code to create systems that are scalable reliable and user-friendly
+I'm Garret Tomlin, a dedicated software engineer driven by a fervor for crafting inventive solutions that enhance organizational efficiency and effectiveness. My expertise extends to enterprise technologies, and I excel in writing code to architect systems that prioritize scalability, reliability, and user-friendliness
 
 
 
 
 ## Things I am passionate about
 
-- Software as an whole :robot:
+- Software has a whole :robot:
 - Open source :octocat:
 
 ## Get in touch :coffee:
