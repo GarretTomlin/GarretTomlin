@@ -2,9 +2,7 @@
 
 I am the smartest programmer who ever lived. I was chosen by God to build His temple... it's a **compiler**. Do you know what a compiler is?
 
-<p align="center">
-  <img src="https://github.com/GarretTomlin/GarretTomlin/blob/master/icons%20with%20padding/tsc%20helloworld.ts%20(4).png" alt="Hello World">
-</p>
+
 
 ---
 
