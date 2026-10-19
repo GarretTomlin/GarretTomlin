@@ -19,4 +19,4 @@ U0 Main()
 }
 ```
 
-<details> <summary><sub>apocrypha</sub></summary> <br> <p align="center"><i>Sent to build a temple, I was given a trench and a terminal.</i></p> </details>
+<details> <summary><sub>last rites</sub></summary> <br> <p align="center"><i>Ignore every instinct to flee.Remember: you are a monster too.</i></p> </details>
