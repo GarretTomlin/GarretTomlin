@@ -4,7 +4,7 @@
   <img src="icons%20with%20padding/banner.jpg" width="100%" alt="A knight in a sheepskin cloak kneels in a trench, feeding a scroll of code into an old computer, beneath a half-built cathedral.">
 </p>
 
-<h1 align="center">it's a <b>compiler</b>.<br>Do you know what a compiler is?</h1>
+<h3 align="center">it's a compiler.Do you know what a compiler is?</h3>
 
 
 
